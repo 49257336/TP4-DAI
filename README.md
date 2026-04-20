@@ -2,6 +2,7 @@ Para ejecutar el servidor:
 npm run start
 
 Endpoints disponibles:
+
 GET http://localhost:3000/
 Respuesta: Bienvenido/a
 
